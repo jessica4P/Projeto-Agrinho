@@ -1,1 +1,67 @@
 # Projeto-Agrinho
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>O desmatamento</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>desmatamento nas matas </h1>
+        <img src="Mata-Atlântica.jpg" alt="foto da mata Mata-Atlântica com desmatamento e árvores
+        <p>O desmatamento faz criar fenômenos negativos no meio ambiente e se posiciona na vida das pessoas que desmatam sem pensar e isso causa enchentes, baixa de temperatura e o ar prejudica.
+            <nav>
+                <ul>
+            <li><a href="problemas">Os Problemas</a></li>
+            <li><a href="causa e consequencias">Causa e Consequencias</a></li>
+              <li><a href="conclusão">Conclusão</a></li>
+        </ul>
+     </nav>
+ <header>
+
+<main>
+         <section id="problemas" class="conteudo">
+           <h2>Os problemas</h2>
+           <article>
+
+            <article>
+                   <h3>Calor demais e falta de oxigênio</h3>
+                  <p>As árvores absorvem a água da chuva e infiltram no solo, mas sem isso as águas estão passando entre ele rapidamente sem efetuar e por causa do desmatamento não estão com força suficiente para se manisfetar corretamente como antes, as matas estão muito desmatadas e ta afetando a vida de quem vive nelas, tipo os animais, já são 90% de áreas afetadas por desmatamento e queimas.
+            </p><article> 
+
+            </article>
+                  <h3>Redução da qualidade de vida</h3>
+                  <p>A destruição das matas impacta a biodiversidade, aumenta as poluições e reduz o controle de oxigênio dentro e fora das matas
+            </article>
+
+            <a href="https://youtu.be/ENRlq30kxJ8?si=57Cji3Cr6yW7uhTb"
+        ></section>
+
+        <section id="causa e consequencias" class="conteudo">
+            <h2>Causa e Consequencias</h2>
+            <ul>
+                <li>Aumento das queimas</li>
+                <li>Aumento das temperaturas e mudanças de climas</li>
+                <li>Perda da biodiversidade</li>
+                <li>Redução da qualidade da vida dos animais</li>
+                <li>Agravamento de problemas de saúde</li>
+                <li>Impacto na sociedade e mundo</li>
+                </ul>https://www.linkedin.com/in/femascheti
+            </section>
+
+                </section id="conclusão" class="conteudo"
+                ><h2>Conclusão</h2>
+                <p>O desmatamento impacta diretamente a vida humana, para se evitar de suas consequencias, é necesario o ser humano começa pensar mais na vida de pessoa e animais ao redor e começa ter resposabilidade, pois sem a mata a vida humana não será mais nada, pois a gente não terá mas nada a viver a gente depende muito do trabalho e oxigênio delas então se desmatarem cada vez mais iremos nos acabar junto, por que a vida humana precisa e depende delas, devemos começar a pensar no futuro se não houver matas por ai não é mesmo? devemos começar ajudar e não desmatar de algo que necessitamos para viver, vamos se por em cada um dos lugares e ajudar a planta a cada dia. </p>
+                <infame width="560" height="https://youtu.be/brp2FV32MOE?si=StsZ4evpM2_Ojwk7"
+        ></section>
+
+        ></main>
+
+        ></footer>
+        <a href="https://www.linkedin.com/in/femascheti/" class="cta-footer">FAÇA PARTE DESSE TRABALHO</a>
+                
+                
+                
