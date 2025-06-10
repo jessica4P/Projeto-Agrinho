@@ -11,10 +11,7 @@
     --font-titulo: "Rakkas", serif;
 }
 
-/* código omitido */
-/* código omitido */
-
-/* Reset */
+/* reset */
 * {
     margin: 0;
     padding: 0;
@@ -41,4 +38,41 @@ img {
     max-width: 90%;
 }
 
-/* código omitido */
+/* cabeçalho*/
+header{
+    background: var(--primary-color);
+    color: white;
+text-align: center;
+padding: 20px;
+}
+
+header h1 {
+    font-family: var(--font-titulo);
+    margin-bottom: 10px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 10px;
+}
+
+nav ul li {
+    display: inline ;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* seções principais */
+.conteudo {
+    background-color: white;
+    padding: 20px;
+}
